@@ -11,7 +11,7 @@ import (
 
 	"google.golang.org/grpc"
 
-	"github.com/mwitkow/grpc-proxy/testservice"
+	"github.com/chaamba/grpc-proxy/testservice"
 )
 
 var (
